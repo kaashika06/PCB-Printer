@@ -1,5 +1,4 @@
 # PCB Printer
-# PCB Printer — CAD Design
 
 ## Overview
 
